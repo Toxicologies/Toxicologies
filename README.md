@@ -22,6 +22,6 @@ Sign my [ata](https://neqrophage.atabook.org/) & check out my [comms](https://rr
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9ix1asmdnj4nuqif9yu5s6lqn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=B870FF&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9ix1asmdnj4nuqif9yu5s6lqn&cover_image=true&theme=spotify-embed&show_offline=true&background_color=B870FF&interchange=false&profanity=false&hide_remaster=false&bar_color=B870FF&bar_color_cover=false&mode=dark">
   </a>
 </p>
