@@ -16,3 +16,12 @@
 
 
 Sign my [ata](https://neqrophage.atabook.org/) & check out my [comms](https://rriotcomms.straw.page/) 
+<br>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9ix1asmdnj4nuqif9yu5s6lqn&cover_image=true&theme=spotify-embed&show_offline=true&background_color=772868&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=22021c&bar_color_cover=false">
+  </a>
+</p>
