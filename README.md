@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Toxicologies&color=B870FF&label=Specimens&abbreviated=true" />
   </p>
-<br>
 
 <img src="https://i.imgur.com/PocySuU.png" width="650px">  <br>
 
