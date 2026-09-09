@@ -8,7 +8,7 @@
 <img src="https://64.media.tumblr.com/4ddaf5a24746bf3666292714370055a9/5ba0277a87eea3a0-75/s2048x3072/eb9b8bf485512ff0191b19b1d2cd50f41119c668.pnj" width="650px"> 
 <p align="center">
 
-ＭＯＴＨＡＦＵＣＫＩＮ'  ＳＴＡＲＢＯＹ
+ＭＯＴＨＡＦＵＣＫＩＮ'   ＳＴＡＲＢＯＹ
 <br>
 <img src="https://64.media.tumblr.com/794be91cfb15443c18ce41c3f44b2f58/5ba0277a87eea3a0-15/s2048x3072/08abf2a4341ec51be6eaf857ad255cfb1bef888b.pnj" width="550px"> 
   <p align="center">
