@@ -24,3 +24,6 @@
 Sign my [ata](https://neqrophage.atabook.org/) & check out my [comms](https://rriotcomms.straw.page/) 
 <br>
 <br>
+<p align="center">
+
+Crowned Pt's official Jabber Wonger pony by [Ponytown-rewards](https://github.com/Ponytowns-rewards) 
