@@ -23,9 +23,4 @@
 
 Sign my [ata](https://neqrophage.atabook.org/) & check out my [comms](https://rriotcomms.straw.page/) 
 <br>
-
-<br>
-
-<p align="center">
-Thank you !! [PonytownRewards](https://github.com/Ponytowns-rewards/)
 <br>
