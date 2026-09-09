@@ -27,5 +27,5 @@ Sign my [ata](https://neqrophage.atabook.org/) & check out my [comms](https://rr
 <br>
 
 <p align="center">
-Thank you !! [ata](https://github.com/Ponytowns-rewards)
+Thank you !! [PonytownRewards](https://github.com/Ponytowns-rewards/)
 <br>
