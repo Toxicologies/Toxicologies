@@ -1,6 +1,5 @@
 <div align="center">
 <br>
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Toxicologies&color=001C4D&label=Specimens&abbreviated=true" />
@@ -25,7 +24,7 @@ Crowned & nominated as Pt's official Jabber Wonger pony by [Ponytown-rewards](ht
 <br>
 <br>
 
-STOP STEALING MY FUCKING SKINS. STOP RIPPING MY SKINS OFF. I HATE ALL OF U BUMS
+STOP STEALING MY FUCKING SKINS. STOP RIPPING MY SKINS OFF. STOP TAKING INSPO. I HATE ALL OF U BUMS MAKE UR OWN SHIT OMFG
 <br>
 
 
