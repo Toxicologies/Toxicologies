@@ -1,6 +1,8 @@
 <div align="center">
 <br>
-
+ STOP STEALING MY FUCKING SKINS. STOP RIPPING MY SKINS OFF. I HATE ALL OF U BUMS
+<br>
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Toxicologies&color=001C4D&label=Specimens&abbreviated=true" />
