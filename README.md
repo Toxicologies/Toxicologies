@@ -1,7 +1,5 @@
 <div align="center">
 <br>
- STOP STEALING MY FUCKING SKINS. STOP RIPPING MY SKINS OFF. I HATE ALL OF U BUMS
-<br>
 <br>
 
 <p align="center">
@@ -11,6 +9,7 @@
 <p align="center">
 
 ＭＯＴＨＡＦＵＣＫＩＮ'   ＳＴＡＲＢＯＹ
+<br>
 <br>
 <img src="https://64.media.tumblr.com/794be91cfb15443c18ce41c3f44b2f58/5ba0277a87eea3a0-15/s2048x3072/08abf2a4341ec51be6eaf857ad255cfb1bef888b.pnj" width="550px"> 
   <p align="center">
@@ -24,6 +23,11 @@ Sign my [ata](https://neqrophage.atabook.org/) & check out my [comms](https://rr
 
 Crowned & nominated as Pt's official Jabber Wonger pony by [Ponytown-rewards](https://github.com/Ponytowns-rewards) !!
 <br>
+<br>
+
+STOP STEALING MY FUCKING SKINS. STOP RIPPING MY SKINS OFF. I HATE ALL OF U BUMS
+<br>
+
 
 <img src="https://64.media.tumblr.com/f2b04947d19d03c9a41c857f69152ae8/5ba0277a87eea3a0-69/s2048x3072/d6328b523e4384916d2dec0cf08415add407dff1.pnj" width="650px"> 
 <br>
