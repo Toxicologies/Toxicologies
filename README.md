@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Toxicologies&color=001C4D&label=Zombies&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=Toxicologies&color=001C4D&label=Zombies&abbreviated=" />
   </p>
 <img src="https://64.media.tumblr.com/4ddaf5a24746bf3666292714370055a9/5ba0277a87eea3a0-75/s2048x3072/eb9b8bf485512ff0191b19b1d2cd50f41119c668.pnj" width="650px"> 
 <p align="center">
